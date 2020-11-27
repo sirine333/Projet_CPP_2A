@@ -27,6 +27,7 @@ CONFIG += c++11
 SOURCES += \
     categories.cpp \
     colloborateur.cpp \
+    etudiante.cpp \
         main.cpp \
         mainwindow.cpp \
     connection.cpp
@@ -34,6 +35,7 @@ SOURCES += \
 HEADERS += \
     categories.h \
     colloborateur.h \
+    etudiante.h \
         mainwindow.h \
     connection.h
 
